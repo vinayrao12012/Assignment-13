@@ -1,4 +1,4 @@
 Flask
 flask_cors
-requests
+requests==2.28.0
 pandas
